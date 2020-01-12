@@ -6,12 +6,12 @@
         <groupId>com.jc</groupId>
         <artifactId>dubbo-zk</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath/> <!-- lookup parent from repository -->
+
     </parent>
 
-    <artifactId>dubbo-provider</artifactId>
+    <artifactId>dubbo-provider-1</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>dubbo-provider</name>
+    <name>dubbo-provider-1</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
@@ -25,10 +25,6 @@
         </dependency>
 
         <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter</artifactId>
-        </dependency>
-        <dependency>
             <groupId>com.alibaba.boot</groupId>
             <artifactId>dubbo-spring-boot-starter</artifactId>
         </dependency>
@@ -40,6 +36,7 @@
             <groupId>com.101tec</groupId>
             <artifactId>zkclient</artifactId>
         </dependency>
+
 
         <dependency>
             <groupId>com.jc</groupId>

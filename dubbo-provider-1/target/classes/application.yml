@@ -2,9 +2,9 @@ dubbo:
   application:
     name: dubbo-provider
   registry:
-    address: 224.5.6.7:1234
+    address: 192.144.236.100:2181
     # 读者请自行更改zookeeper地址
-    protocol: multicast
+    protocol: zookeeper
     check: false
   protocol:
     name: dubbo

@@ -1,5 +1,6 @@
-package com.jc.dubboprovider.service.impl;
+package com.jc.dubboprovider1.service.impl;
 
+import com.alibaba.dubbo.config.annotation.Service;
 import com.jc.dubboapi.service.CostService;
 
 /*
@@ -9,6 +10,7 @@ import com.jc.dubboapi.service.CostService;
  * @since: 2020/1/12 21:59
  * @Version 1.0
  */
+@Service
 public class CostServiceImpl implements CostService {
     /**
      * 假设之前总花费了100

@@ -1,0 +1,19 @@
+dubbo:
+  application:
+    name: dubbo-provider
+  registry:
+    address: 192.144.236.100:2181
+    # 读者请自行更改zookeeper地址
+    protocol: zookeeper
+    check: false
+  protocol:
+    name: dubbo
+    port: 20880
+  monitor:
+    protocol: register
+  consumer:
+    check: false
+    timeout: 3000
+
+server:
+  port: 8061
