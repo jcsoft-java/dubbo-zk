@@ -2,28 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e57e73ea-45a5-45b3-b34e-45297fccd724" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_yetus_audience_annotations_0_5_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dubbo-api/dubbo-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-api/dubbo-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-api/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dubbo-consumer/dubbo-consumer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-consumer/dubbo-consumer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-provider/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-provider/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-provider/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-provider/dubbo-provider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider-1/dubbo-provider-1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-provider/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-provider/src/main/java/com/jc/dubboprovider/DubboProviderApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-provider/src/main/java/com/jc/dubboprovider/service/impl/CostServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider-1/src/main/java/com/jc/dubboprovider1/service/impl/CostServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-provider/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider-1/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-provider/src/test/java/com/jc/dubboprovider/DubboProviderApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-consumer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider-1/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider-1/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider-1/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider-1/target/classes/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dubbo-zk.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-zk.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jc/dubboprovider/service/impl/CostServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jc/dubboprovider/service/impl/CostServiceImpl.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +88,7 @@
       <recent name="C:\ZJF\Git-java\dubbo-zk\dubbo-consumer\src\main\java\com\jc\dubboconsumer" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.DubboConsumerApplication">
+  <component name="RunManager" selected="Spring Boot.DubboProvider1Application">
     <configuration name="DubboApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="dubbo-api" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.jc.dubboapi.DubboApiApplication" />
@@ -156,7 +142,7 @@
       <workItem from="1578804130879" duration="7182000" />
       <workItem from="1578821077663" duration="8608000" />
       <workItem from="1578841366185" duration="1751000" />
-      <workItem from="1578843294409" duration="4241000" />
+      <workItem from="1578843294409" duration="4997000" />
     </task>
     <servers />
   </component>
@@ -184,38 +170,38 @@
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
     <state x="1866" y="188" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1578846523104" />
-    <state width="1397" height="127" key="GridCell.Tab.0.bottom" timestamp="1578847591547">
+    <state width="1397" height="643" key="GridCell.Tab.0.bottom" timestamp="1578848342784">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="127" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1578847591547" />
-    <state width="1397" height="127" key="GridCell.Tab.0.center" timestamp="1578847591547">
+    <state width="1397" height="643" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1578848342784" />
+    <state width="1397" height="643" key="GridCell.Tab.0.center" timestamp="1578848342784">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="127" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1578847591547" />
-    <state width="1397" height="127" key="GridCell.Tab.0.left" timestamp="1578847591547">
+    <state width="1397" height="643" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1578848342784" />
+    <state width="1397" height="643" key="GridCell.Tab.0.left" timestamp="1578848342784">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="127" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1578847591547" />
-    <state width="1397" height="127" key="GridCell.Tab.0.right" timestamp="1578847591547">
+    <state width="1397" height="643" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1578848342784" />
+    <state width="1397" height="643" key="GridCell.Tab.0.right" timestamp="1578848342784">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="127" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1578847591547" />
-    <state width="1397" height="127" key="GridCell.Tab.1.bottom" timestamp="1578847591547">
+    <state width="1397" height="643" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1578848342784" />
+    <state width="1397" height="643" key="GridCell.Tab.1.bottom" timestamp="1578848342785">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="127" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1578847591547" />
-    <state width="1397" height="127" key="GridCell.Tab.1.center" timestamp="1578847591547">
+    <state width="1397" height="643" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1578848342785" />
+    <state width="1397" height="643" key="GridCell.Tab.1.center" timestamp="1578848342785">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="127" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1578847591547" />
-    <state width="1397" height="127" key="GridCell.Tab.1.left" timestamp="1578847591547">
+    <state width="1397" height="643" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1578848342785" />
+    <state width="1397" height="643" key="GridCell.Tab.1.left" timestamp="1578848342784">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="127" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1578847591547" />
-    <state width="1397" height="127" key="GridCell.Tab.1.right" timestamp="1578847591547">
+    <state width="1397" height="643" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1578848342784" />
+    <state width="1397" height="643" key="GridCell.Tab.1.right" timestamp="1578848342785">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="127" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1578847591547" />
+    <state width="1397" height="643" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1578848342785" />
     <state x="1616" y="88" key="Maven.ArtifactSearchDialog" timestamp="1578842414615">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
