@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dubbo-zk:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>dubbo-zk</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="dubbo-zk-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="dubbo-zk:war exploded" />
+    </root>
+  </artifact>
+</component>
