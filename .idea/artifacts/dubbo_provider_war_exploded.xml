@@ -51,6 +51,8 @@
           <element id="archive" name="dubbo-api-0.0.1-SNAPSHOT.jar">
             <element id="module-output" name="dubbo-api" />
           </element>
+          <element id="library" level="project" name="Maven: com.alibaba:dubbo:2.6.2" />
+          <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.16.18" />
         </element>
       </element>
       <element id="directory" name="META-INF">
