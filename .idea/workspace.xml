@@ -9,7 +9,9 @@
     </loaded-modules>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e57e73ea-45a5-45b3-b34e-45297fccd724" name="Default Changelist" comment="" />
+    <list default="true" id="e57e73ea-45a5-45b3-b34e-45297fccd724" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,13 +110,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DubboMessageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="dubbo-message" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jc.dubbomessage.DubboMessageApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="DubboProvider1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="dubbo-provider-1" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.jc.dubboprovider1.DubboProvider1Application" />
@@ -126,7 +121,6 @@
       <item itemvalue="Spring Boot.DubboApiApplication" />
       <item itemvalue="Spring Boot.DubboConsumerApplication" />
       <item itemvalue="Spring Boot.DubboProvider1Application" />
-      <item itemvalue="Spring Boot.DubboMessageApplication" />
     </list>
   </component>
   <component name="ServiceViewManager">
@@ -167,7 +161,7 @@
       <workItem from="1583736195080" duration="1124000" />
       <workItem from="1584370137324" duration="20000" />
       <workItem from="1605684084182" duration="706000" />
-      <workItem from="1605827998105" duration="1801000" />
+      <workItem from="1605827998105" duration="3626000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1605832831075</created>
@@ -176,7 +170,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605832831075</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="测试">
+      <created>1605832945208</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605832945208</updated>
+    </task>
+    <task id="LOCAL-00003" summary="测试">
+      <created>1605832989806</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605832989806</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,17 +231,57 @@
     <option name="LAST_COMMIT_MESSAGE" value="测试" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1635" y="0" key="CommitChangelistDialog2" timestamp="1605832941260">
+    <state x="1503" y="22" width="1165" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605833411065">
       <screen x="1366" y="0" width="1366" height="728" />
     </state>
-    <state x="1635" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605832941260" />
+    <state x="1503" y="22" width="1165" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605833411065" />
+    <state x="1815" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605833375415">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1815" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605833375415" />
+    <state x="1635" y="0" key="CommitChangelistDialog2" timestamp="1605832988759">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1635" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605832988759" />
+    <state width="1323" height="116" key="GridCell.Tab.0.bottom" timestamp="1605833564361">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="116" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605833564361" />
+    <state width="1323" height="116" key="GridCell.Tab.0.center" timestamp="1605833564360">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="116" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605833564360" />
+    <state width="1323" height="116" key="GridCell.Tab.0.left" timestamp="1605833564360">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="116" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605833564360" />
+    <state width="1323" height="116" key="GridCell.Tab.0.right" timestamp="1605833564360">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="116" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605833564360" />
+    <state width="1323" height="116" key="GridCell.Tab.1.bottom" timestamp="1605833564361">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="116" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605833564361" />
+    <state width="1323" height="116" key="GridCell.Tab.1.center" timestamp="1605833564361">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="116" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605833564361" />
+    <state width="1323" height="116" key="GridCell.Tab.1.left" timestamp="1605833564361">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="116" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605833564361" />
+    <state width="1323" height="116" key="GridCell.Tab.1.right" timestamp="1605833564361">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="116" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605833564361" />
     <state x="1822" y="143" key="RollbackChangesDialog" timestamp="1605684217569">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
     <state x="1822" y="143" key="RollbackChangesDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605684217569" />
-    <state x="1641" y="100" key="Vcs.Push.Dialog.v2" timestamp="1605832834399">
+    <state x="1641" y="100" key="Vcs.Push.Dialog.v2" timestamp="1605833006762">
       <screen x="1366" y="0" width="1366" height="728" />
     </state>
-    <state x="1641" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605832834399" />
+    <state x="1641" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605833006762" />
   </component>
 </project>
