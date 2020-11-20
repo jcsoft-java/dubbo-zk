@@ -20,7 +20,6 @@
         <module>dubbo-api</module>
         <module>dubbo-consumer</module>
         <module>dubbo-provider-1</module>
-        <module>dubbo-message</module>
     </modules>
 
     <properties>

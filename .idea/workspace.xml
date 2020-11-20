@@ -11,6 +11,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e57e73ea-45a5-45b3-b34e-45297fccd724" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-zk.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-zk.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +163,7 @@
       <workItem from="1583736195080" duration="1124000" />
       <workItem from="1584370137324" duration="20000" />
       <workItem from="1605684084182" duration="706000" />
-      <workItem from="1605827998105" duration="3626000" />
+      <workItem from="1605827998105" duration="4192000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1605832831075</created>
@@ -184,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605832989806</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="测试">
+      <created>1605852979111</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605852979111</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,10 +248,11 @@
       <screen x="1366" y="0" width="1366" height="728" />
     </state>
     <state x="1815" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605833375415" />
-    <state x="1635" y="0" key="CommitChangelistDialog2" timestamp="1605832988759">
-      <screen x="1366" y="0" width="1366" height="728" />
+    <state x="1650" y="0" key="CommitChangelistDialog2" timestamp="1605852975913">
+      <screen x="1366" y="0" width="1440" height="860" />
     </state>
     <state x="1635" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605832988759" />
+    <state x="1650" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605852975913" />
     <state width="1323" height="116" key="GridCell.Tab.0.bottom" timestamp="1605833564361">
       <screen x="1366" y="0" width="1366" height="728" />
     </state>
