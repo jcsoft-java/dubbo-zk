@@ -1,0 +1,4 @@
+com\jc\dubboconsumer\DubboConsumerApplication.class
+com\jc\dubboconsumer\controller\ProductController.class
+com\jc\dubboconsumer\service\ProductService.class
+com\jc\dubboconsumer\service\impl\ProductServiceImpl.class
