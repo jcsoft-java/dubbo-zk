@@ -8,7 +8,7 @@ dubbo:
     check: false
   protocol:
     name: dubbo
-    port: 20882
+    port: 20883
   monitor:
     protocol: register
   consumer:
@@ -16,4 +16,4 @@ dubbo:
     timeout: 3000
 
 server:
-  port: 8061
+  port: 8071

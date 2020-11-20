@@ -20,6 +20,7 @@
         <module>dubbo-api</module>
         <module>dubbo-consumer</module>
         <module>dubbo-provider-1</module>
+        <module>dubbo-message</module>
     </modules>
 
     <properties>
@@ -96,16 +97,6 @@
                 </exclusion>
             </exclusions>
         </dependency>
-        <dependency>
-            <groupId>com.jc</groupId>
-            <artifactId>dubbo-api</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
-            <groupId>com.alibaba</groupId>
-            <artifactId>dubbo</artifactId>
-        </dependency>
     </dependencies>
 
     <build>
@@ -113,6 +104,7 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+
             </plugin>
         </plugins>
     </build>

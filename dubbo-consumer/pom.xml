@@ -6,13 +6,13 @@
         <groupId>com.jc</groupId>
         <artifactId>dubbo-zk</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
     <artifactId>dubbo-consumer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>dubbo-consumer</name>
-    <description>Demo project for Spring Boot</description>
+
+    <packaging>jar</packaging>
 
     <properties>
         <java.version>1.8</java.version>
