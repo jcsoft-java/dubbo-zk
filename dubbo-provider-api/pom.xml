@@ -8,9 +8,9 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>dubbo-api</artifactId>
+    <artifactId>dubbo-provider-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>dubbo-api</name>
+    <name>dubbo-provider-api</name>
 
     <packaging>jar</packaging>
 

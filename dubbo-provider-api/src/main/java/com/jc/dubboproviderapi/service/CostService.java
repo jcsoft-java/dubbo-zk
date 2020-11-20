@@ -1,4 +1,4 @@
-package com.jc.dubboapi.service;
+package com.jc.dubboproviderapi.service;
 
 /*
  *

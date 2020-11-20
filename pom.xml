@@ -17,7 +17,7 @@
 
     <packaging>pom</packaging>
     <modules>
-        <module>dubbo-api</module>
+        <module>dubbo-provider-api</module>
         <module>dubbo-consumer</module>
         <module>dubbo-provider</module>
     </modules>

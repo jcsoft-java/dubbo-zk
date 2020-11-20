@@ -39,7 +39,7 @@
 
         <dependency>
             <groupId>com.jc</groupId>
-            <artifactId>dubbo-api</artifactId>
+            <artifactId>dubbo-provider-api</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
 

@@ -1,8 +1,7 @@
 package com.jc.dubboprovider.service.impl;
 
 import com.alibaba.dubbo.config.annotation.Service;
-import com.jc.dubboapi.service.CostService;
-import lombok.extern.slf4j.Slf4j;
+import com.jc.dubboproviderapi.service.CostService;
 
 /*
  *
