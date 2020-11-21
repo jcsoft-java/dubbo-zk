@@ -10,38 +10,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e57e73ea-45a5-45b3-b34e-45297fccd724" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jc_dubbo_api_0_0_1_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/dubbo_consumer_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/dubbo_consumer_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/dubbo_provider_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/dubbo_provider_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/dubbo_zk_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/dubbo_zk_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-api/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider-api/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-api/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider-api/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-api/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider-api/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-api/dubbo-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider-api/dubbo-provider-api.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-api/src/main/java/com/jc/dubboapi/DubboApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider-api/src/main/java/com/jc/dubboproviderapi/DubboProviderApiApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-api/src/main/java/com/jc/dubboapi/service/CostService.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider-api/src/main/java/com/jc/dubboproviderapi/service/CostService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider-api/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-api/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider-api/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-api/target/classes/com/jc/dubboapi/DubboApiApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider-api/target/classes/com/jc/dubboapi/DubboApiApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-api/target/classes/com/jc/dubboapi/service/CostService.class" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider-api/target/classes/com/jc/dubboapi/service/CostService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-api/target/dubbo-api-0.0.1-SNAPSHOT-exec.jar" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider-api/target/dubbo-api-0.0.1-SNAPSHOT-exec.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-api/target/dubbo-api-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider-api/target/dubbo-api-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider-api/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-consumer/dubbo-consumer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-consumer/dubbo-consumer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-consumer/src/main/java/com/jc/dubboconsumer/service/impl/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-consumer/src/main/java/com/jc/dubboconsumer/service/impl/ProductServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-provider/dubbo-provider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/dubbo-provider.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/src/main/java/com/jc/dubboconsumer/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-consumer/src/main/java/com/jc/dubboconsumer/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/target/classes/com/jc/dubboconsumer/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-consumer/target/classes/com/jc/dubboconsumer/controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/target/dubbo-consumer-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-consumer/target/dubbo-consumer-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/target/dubbo-consumer-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-consumer/target/dubbo-consumer-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider-api/target/classes/com/jc/dubboapi/DubboApiApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider-api/target/classes/com/jc/dubboapi/service/CostService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider-api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider-api/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dubbo-provider/src/main/java/com/jc/dubboprovider/service/impl/CostServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/src/main/java/com/jc/dubboprovider/service/impl/CostServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/target/classes/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -253,7 +234,8 @@
       <workItem from="1584370137324" duration="20000" />
       <workItem from="1605684084182" duration="706000" />
       <workItem from="1605827998105" duration="9561000" />
-      <workItem from="1605858951660" duration="2137000" />
+      <workItem from="1605858951660" duration="4714000" />
+      <workItem from="1605914827343" duration="3353000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1605832831075</created>
@@ -304,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605860041909</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="修改完">
+      <created>1605862645602</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605862645602</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,7 +338,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试" />
     <MESSAGE value="修改完后" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改完后" />
+    <MESSAGE value="修改完" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改完" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1614" y="82" key="#DubboProvider1Application" timestamp="1605858109515">
@@ -377,63 +367,63 @@
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
     <state x="1875" y="346" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605856272942" />
-    <state x="1650" y="0" key="CommitChangelistDialog2" timestamp="1605860035609">
+    <state x="1540" y="0" key="CommitChangelistDialog2" timestamp="1605862637773">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
     <state x="1635" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605832988759" />
-    <state x="1650" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605860035609" />
+    <state x="1540" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605862637773" />
     <state x="1863" y="174" key="FileChooserDialogImpl" timestamp="1605858225155">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
     <state x="1863" y="174" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605858225155" />
-    <state width="1123" height="478" key="GridCell.Tab.0.bottom" timestamp="1605862594821">
+    <state width="1397" height="151" key="GridCell.Tab.0.bottom" timestamp="1605918185662">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
     <state width="1323" height="116" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605833564361" />
-    <state width="1123" height="478" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605862594821" />
-    <state width="1123" height="478" key="GridCell.Tab.0.center" timestamp="1605862594821">
+    <state width="1397" height="151" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605918185662" />
+    <state width="1397" height="151" key="GridCell.Tab.0.center" timestamp="1605918185662">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
     <state width="1323" height="116" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605833564360" />
-    <state width="1123" height="478" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605862594821" />
-    <state width="1123" height="478" key="GridCell.Tab.0.left" timestamp="1605862594821">
+    <state width="1397" height="151" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605918185662" />
+    <state width="1397" height="151" key="GridCell.Tab.0.left" timestamp="1605918185662">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
     <state width="1323" height="116" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605833564360" />
-    <state width="1123" height="478" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605862594821" />
-    <state width="1123" height="478" key="GridCell.Tab.0.right" timestamp="1605862594821">
+    <state width="1397" height="151" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605918185662" />
+    <state width="1397" height="151" key="GridCell.Tab.0.right" timestamp="1605918185662">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
     <state width="1323" height="116" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605833564360" />
-    <state width="1123" height="478" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605862594821" />
-    <state width="1123" height="478" key="GridCell.Tab.1.bottom" timestamp="1605862594821">
+    <state width="1397" height="151" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605918185662" />
+    <state width="1397" height="145" key="GridCell.Tab.1.bottom" timestamp="1605917725451">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
     <state width="1323" height="116" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605833564361" />
-    <state width="1123" height="478" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605862594821" />
-    <state width="1123" height="478" key="GridCell.Tab.1.center" timestamp="1605862594821">
+    <state width="1397" height="145" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605917725451" />
+    <state width="1397" height="145" key="GridCell.Tab.1.center" timestamp="1605917725451">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
     <state width="1323" height="116" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605833564361" />
-    <state width="1123" height="478" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605862594821" />
-    <state width="1123" height="478" key="GridCell.Tab.1.left" timestamp="1605862594821">
+    <state width="1397" height="145" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605917725451" />
+    <state width="1397" height="145" key="GridCell.Tab.1.left" timestamp="1605917725450">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
     <state width="1323" height="116" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605833564361" />
-    <state width="1123" height="478" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605862594821" />
-    <state width="1123" height="478" key="GridCell.Tab.1.right" timestamp="1605862594821">
+    <state width="1397" height="145" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605917725450" />
+    <state width="1397" height="145" key="GridCell.Tab.1.right" timestamp="1605917725451">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
     <state width="1323" height="116" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1605833564361" />
-    <state width="1123" height="478" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605862594821" />
+    <state width="1397" height="145" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605917725451" />
     <state x="1666" y="168" key="IDE.errors.dialog" timestamp="1605857639918">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
     <state x="1666" y="168" key="IDE.errors.dialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605857639918" />
-    <state x="1822" y="143" key="RollbackChangesDialog" timestamp="1605684217569">
+    <state x="1822" y="143" key="RollbackChangesDialog" timestamp="1605917773541">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
-    <state x="1822" y="143" key="RollbackChangesDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605684217569" />
+    <state x="1822" y="143" key="RollbackChangesDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605917773541" />
     <state x="1566" y="8" key="SettingsEditor" timestamp="1605858076280">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>

@@ -17,6 +17,7 @@ public class ProductController {
     @Autowired
     private ProductService productService;
 
+    //访问 http://localhost:8062/add?a=8000
     @RequestMapping("/add")
     public String getCost(int a){
         return "该产品总共消费 ："+productService.getCost(a);
